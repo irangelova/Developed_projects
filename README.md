@@ -19,3 +19,7 @@ The winner is the player whose choice beats the choice of the opponent. In case 
 - If the player wants to continue the game they input "yes". Otherwise they input "no" and statistics of the game (number of won, lost and draw rounds) are printed
   
   ![Screenshot 2024-09-28 235741](https://github.com/user-attachments/assets/8599fd35-1c01-4399-ba6f-06efb6f8a6e4)
+  
+⏯️ Live demo of the code:
+
+ [<img alt="Play Button" src="https://github.com/user-attachments/assets/458c9ed7-0521-4f88-9eef-cbd555bb7511" width="100" height="50"/>](https://replit.com/@ivetar/RockPaperScissorsbyIveta)
