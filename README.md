@@ -24,4 +24,23 @@ The winner is the player whose choice beats the choice of the opponent. In case 
 
  [<img alt="Play Button" src="https://github.com/user-attachments/assets/458c9ed7-0521-4f88-9eef-cbd555bb7511" width="100" height="50"/>](https://replit.com/@ivetar/RockPaperScissorsbyIveta)
 
-### 2. Interactive data operators
+### 2. Interactive data type operations ➕➖✖️➗
+
+🚀 The goal of the project was to develop a program letting users choose a data type and present the result ofoperations with it. User can choose on of following data types:
+- Strings
+- Numbers
+- Booleans
+- Additional data types lists, tuples, dictionaries
+
+⚙️ The solution consists of several steps:
+1. If choice is string, completed operations are string variable declaration, extraction of substring, conversion of a string in uppercase, replacement of word in a string. After the opertaions are completed the results are printed.
+2. If choice is number, user is asked to enter two float numbers. The operations addition, subtraction, multiplication, and division are performed and the results are printed.
+3. If choice is boolean, two boolean variables are declared. Afterwards logical operations AND, OR and NOT are performed and the results are printed.
+4. If choice is additional data types:
+  - A list with mixed data types is created. New element is appended to the list and the fourt element of the list is accessed and printed.
+  - A tuple with mixed data types is created. The length of the tuple is printed and error handling from modification of the tuple is printed.
+  - A dictionary with key-value pairs is created. The value for one of the keys is accessed and printed. Afterwards new key-value pair is added to the dictionary and the update is printed.
+
+Screenshot of the programm working:
+![image](https://github.com/user-attachments/assets/93689db0-e4b1-4b3e-b478-3e3f3ddd4899)
+
