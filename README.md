@@ -41,6 +41,6 @@ The winner is the player whose choice beats the choice of the opponent. In case 
   - A tuple with mixed data types is created. The length of the tuple is printed and error handling from modification of the tuple is printed.
   - A dictionary with key-value pairs is created. The value for one of the keys is accessed and printed. Afterwards new key-value pair is added to the dictionary and the update is printed.
 
-Screenshot of the programm working:
+Screenshot of the program working:
 
   ![Screenshot_program2](https://github.com/user-attachments/assets/e7b34985-2276-40cf-8fce-0e549a671da4)
