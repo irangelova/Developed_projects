@@ -42,5 +42,5 @@ The winner is the player whose choice beats the choice of the opponent. In case 
   - A dictionary with key-value pairs is created. The value for one of the keys is accessed and printed. Afterwards new key-value pair is added to the dictionary and the update is printed.
 
 Screenshot of the programm working:
-![image](https://github.com/user-attachments/assets/93689db0-e4b1-4b3e-b478-3e3f3ddd4899)
 
+  ![Screenshot_program2](https://github.com/user-attachments/assets/e7b34985-2276-40cf-8fce-0e549a671da4)
