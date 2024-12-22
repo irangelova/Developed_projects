@@ -23,3 +23,5 @@ The winner is the player whose choice beats the choice of the opponent. In case 
 ⏯️ Live demo of the code:
 
  [<img alt="Play Button" src="https://github.com/user-attachments/assets/458c9ed7-0521-4f88-9eef-cbd555bb7511" width="100" height="50"/>](https://replit.com/@ivetar/RockPaperScissorsbyIveta)
+
+### 2. Interactive data operators
