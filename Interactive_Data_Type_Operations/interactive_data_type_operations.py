@@ -56,6 +56,7 @@ elif choice == '2':
         print("It is not possible to divide by zero!")
     else:
         print(f"Division of the two numbers: {division}")
+    print(f"{first_number} on the power of {second_number}: {power_operation}")
 
 # If the user chooses Booleans (choice == '3'):
 elif choice == '3':
